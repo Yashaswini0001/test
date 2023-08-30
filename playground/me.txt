@@ -1,4 +1,5 @@
-{{#user}}
-Name: Yashashwini s
-Skills: Python, Java, Html, Css, C programming
-Email:yashashwinis303@gmail.com
+"{{#user}}" 
+"Name: Yashashwini s" 
+"Skills: HTML, CSS, Java, Python , C programming" 
+"Email: yashuyashi333@gmail.com" 
+"{{/user}}" 
