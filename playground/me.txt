@@ -1,5 +1,0 @@
-"{{#user}}" 
-"Name: Yashashwini s" 
-"Skills: HTML, CSS, Java, Python , C programming" 
-"Email: yashuyashi333@gmail.com" 
-"{{/user}}" 
